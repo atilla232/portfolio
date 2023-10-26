@@ -97,8 +97,9 @@
       <div class="hero-main">
         <div class="photo"></div>
         <div class="hero-text mt-1">
-          <h1>HI!, I'M <span>ATILLA</span></h1>
-          <h4>FULLSTACK DEVELOPER | CYBERSECURITY ENGINEER</h4>
+          <h1>HI!, I'M <span class="typing-2">ATILLA</span></h1>
+          <!-- <h4>FULLSTACK DEVELOPER | CYBERSECURITY ENGINEER</h4> -->
+          <h4><span class="typing"></span></h4>
         </div>
         <a href="#about" class="btn btn-outline-primary mt-1">About Me</a>
       </div>
@@ -1053,35 +1054,6 @@
       emailjs.init("s_PSXAWmFSmGCOLOX");
     </script>
 
-    <script>
-      document.querySelector("#submit").addEventListener("click", function (e) {
-        e.preventDefault();
-
-        // Ambil nilai dari input dan textarea menggunakan .value
-        const name = document.querySelector("#name").value;
-        const email = document.querySelector("#email").value;
-        const phone = document.querySelector("#nomorTelepon").value;
-        const message = document.querySelector("#message").value;
-
-        // Kirim email menggunakan Email.js
-        emailjs
-          .send("service_hzhl96a", "template_owy8zoy", {
-            from_name: name,
-            email: email,
-            phone: phone,
-            message: message,
-          })
-          .then(
-            function (response) {
-              // Menampilkan alert ketika email berhasil terkirim
-              alert("Email sent successfully");
-            },
-            function (error) {
-              // Menampilkan alert ketika email tidak dapat terkirim
-              alert("Email could not be sent. Error: " + error);
-            }
-          );
-      });
-    </script>
+    <script src="/contact me/contact.js"></script>
   </body>
 </html>
