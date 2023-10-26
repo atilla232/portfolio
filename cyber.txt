@@ -1,0 +1,98 @@
+Sebagai seorang cybersecurity engineer, memiliki pengalaman dengan berbagai alat dan proyek keamanan komputer adalah kunci untuk membangun portofolio yang kuat. Berikut adalah 20 alat dan proyek yang dapat Anda pertimbangkan untuk dimasukkan dalam portofolio Anda:
+
+1. **Wireshark**: Pengalaman dalam menggunakan alat ini untuk analisis lalu lintas jaringan.
+
+2. **Nmap**: Penggunaan Nmap dalam pemindaian jaringan dan penemuan kerentanan.
+
+3. **Metasploit**: Pengalaman dalam pengujian penetrasi dan eksploitasi kerentanan.
+
+4. **Snort**: Pemahaman tentang IDS (Intrusion Detection System) dan penggunaan Snort untuk pemantauan ancaman.
+
+5. **OWASP Zap**: Penggunaan alat ini dalam pengujian penetrasi aplikasi web.
+
+6. **Aircrack-ng**: Pengalaman dalam tes keamanan jaringan nirkabel.
+
+7. **Burp Suite**: Pemahaman tentang pengujian penetrasi aplikasi web dan penggunaan Burp Suite.
+
+8. **Suricata**: Pemahaman tentang IDS dan IPS (Intrusion Prevention System) dan penggunaan Suricata.
+
+9. **Cuckoo Sandbox**: Pemahaman tentang analisis malware dengan alat ini.
+
+10. **FireEye**: Pengalaman dalam analisis ancaman dan forensik.
+
+11. **Security Onion**: Penggunaan platform ini untuk pemantauan keamanan.
+
+12. **Splunk**: Pemahaman tentang SIEM (Security Information and Event Management) dan penggunaan Splunk untuk analisis log.
+
+13. **OSSEC**: Pengalaman dalam deteksi intrusi dan penggunaan OSSEC.
+
+14. **Bro/Zeek**: Penggunaan alat ini untuk pemantauan jaringan dan analisis.
+
+15. **CISA NIST Cybersecurity Framework**: Pengalaman dengan kerangka kerja ini dalam pengelolaan risiko.
+
+16. **YARA**: Pemahaman tentang alat ini dalam pencarian malware.
+
+17. **OpenVAS**: Penggunaan alat ini untuk pemindaian kerentanan.
+
+18. **WiFite**: Pengalaman dalam pengujian penetrasi jaringan nirkabel.
+
+19. **Cain and Abel**: Pemahaman tentang alat ini dalam pengujian penetrasi dan pemulihan kata sandi.
+
+20. **Security+: Sertifikasi CompTIA**: Menambahkan sertifikasi keamanan seperti CompTIA Security+ ke portofolio Anda.
+
+Dengan pengalaman dan proyek yang mencakup berbagai aspek keamanan komputer, Anda dapat memperkuat portofolio Anda dan menunjukkan kemampuan Anda sebagai seorang cybersecurity engineer. Jangan lupa untuk mendokumentasikan proyek-proyek ini secara rinci dalam portofolio Anda.
+
+Kali Linux adalah distribusi Linux yang berfokus pada keamanan dan pengujian penetrasi. Ini dilengkapi dengan sejumlah besar alat keamanan yang populer digunakan oleh profesional keamanan dan etis hacker. Berikut adalah 50 alat paling populer yang disediakan oleh Kali Linux:
+
+1. Nmap - Pemindai jaringan
+2. Metasploit - Platform penetrasi
+3. Wireshark - Analisis paket jaringan
+4. Aircrack-ng - Uji keamanan jaringan nirkabel
+5. Burp Suite - Alat penetrasi untuk aplikasi web
+6. John the Ripper - Alat penguraian kata sandi
+7. Hydra - Alat serangan kata sandi
+8. Gobuster - Pencari direktori dalam serangan penetrasi
+9. OWASP ZAP - Alat penetrasi untuk kerentanan aplikasi web
+10. Sqlmap - Alat uji kerentanan SQL injection
+11. Nikto - Pemindai kerentanan web
+12. WiFite - Alat serangan jaringan Wi-Fi
+13. Hashcat - Alat pemulihan kata sandi
+14. Maltego - Alat analisis sosial dan jejak digital
+15. Social-Engineer Toolkit (SET) - Alat serangan rekayasa sosial
+16. Fern Wi-Fi Cracker - Alat penetrasi untuk jaringan nirkabel
+17. Ettercap - Alat man-in-the-middle
+18. Airodump-ng - Pemantauan jaringan nirkabel
+19. THC-Hydra - Alat serangan kata sandi
+20. Netcat - Utilitas jaringan serba guna
+21. Snort - Sistem deteksi intrusi jaringan
+22. Nexpose - Pemindai kerentanan
+23. Dirb - Pencari direktori
+24. Maltego - Alat analisis sosial dan jejak digital
+25. Social-Engineer Toolkit (SET) - Alat serangan rekayasa sosial
+26. Skipfish - Pemindai kerentanan aplikasi web
+27. W3af - Kerangka kerja serangan aplikasi web
+28. BeEF - The Browser Exploitation Framework
+29. Sqlninja - Alat penetrasi SQL
+30. Driftnet - Pemantauan lalu lintas gambar
+31. Commix - Alat penetrasi SQL injection
+32. CherryTree - Manajemen catatan
+33. Zenmap - Antarmuka grafis untuk Nmap
+34. Yersinia - Kerangka kerja untuk serangan jaringan
+35. Hping - Alat pengiriman paket kustom
+36. Sqlsus - Alat penetrasi SQL
+37. SPARTA - Alat penetrasi jaringan
+38. RSMangler - Generator kata sandi
+39. Faraday - Manajemen penetrasi dan kolaborasi
+40. Fierce - Pencari DNS
+41. DBeaver - Klien database universal
+42. VEGA - Pemindai kerentanan aplikasi web
+43. Hydra - Alat serangan kata sandi
+44. Sqlninja - Alat penetrasi SQL
+45. Commix - Alat penetrasi SQL injection
+46. CherryTree - Manajemen catatan
+47. Zenmap - Antarmuka grafis untuk Nmap
+48. Yersinia - Kerangka kerja untuk serangan jaringan
+49. Sqlsus - Alat penetrasi SQL
+50. SPARTA - Alat penetrasi jaringan
+
+Kali Linux adalah alat yang kuat untuk pengujian penetrasi dan keamanan jaringan, dan daftar ini hanyalah sebagian kecil dari alat-alat yang disediakan oleh distribusi ini. Harap diingat untuk menggunakan alat-alat ini dengan etika dan hanya pada sistem yang Anda izinkan untuk diuji.

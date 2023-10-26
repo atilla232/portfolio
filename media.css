@@ -1,0 +1,62 @@
+@media (max-width: 992px) {
+  .mybtn {
+    display: none !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .main-content p {
+    width: 90vw;
+  }
+  section {
+    padding: 30px;
+  }
+
+  .hero {
+    padding: 40px;
+  }
+  .hero-main {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .about {
+    height: fit-content;
+  }
+
+  .main-content {
+    text-align: center;
+  }
+
+  .medsos {
+    line-height: 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  .service-main .para {
+    width: 90%;
+  }
+  .my-card {
+    width: 150px;
+  }
+  .my-card h3 {
+    left: 35px;
+  }
+
+  .my-card p {
+    left: 35px;
+  }
+
+  #john {
+    display: none;
+  }
+
+  #jtr {
+    display: block;
+  }
+}
