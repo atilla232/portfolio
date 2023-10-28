@@ -29,3 +29,10 @@ const mengetik = new Typed(".typing", {
   backSpeed: 50,
   loop: true,
 });
+
+const mengetikan = new Typed(".typing-2", {
+  strings: ["Fullstack Developer", "Cybersecurity Engineer"],
+  typeSpeed: 65,
+  backSpeed: 50,
+  loop: true,
+});
